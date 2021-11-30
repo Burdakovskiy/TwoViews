@@ -1,2 +1,2 @@
 # TwoViews
-First home work on the course
+Set up constraints for two views
